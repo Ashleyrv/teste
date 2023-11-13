@@ -9,7 +9,7 @@ document.addEventListener("DOMContentLoaded", function () {
     const buttonYes = document.getElementById("button-yes");
   
     buttonYes.addEventListener("click", function () {
-      alert("Eu te amo, bocó. Confia em mim?");
+      alert("Eu te amo, bocó. Confia em mim? Só não tem aliança agora");
     });
   
     container.addEventListener("mousemove", function (event) {
