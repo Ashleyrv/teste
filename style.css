@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #ffc8dd;
+  }
+  
+  .container {
+    text-align: center;
+    background-color: #ffc8dd;
+    padding: 10px;
+  }
+  
+  .margin {
+    width: 500px;
+    height: 100px;
+    background-color: #ffc8dd;
+  }
+  
+  .text-id {
+    font-size: 14px;
+    color: #590d22;
+  }
+  
+  .button {
+    background-color: #ffb3c1;
+    padding: 10px;
+    margin: 5px;
+    border: none;
+    font-size: 14px;
+    font-weight: bold;
+    cursor: pointer;
+  }
+  
